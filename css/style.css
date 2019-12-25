@@ -539,6 +539,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border-
   Diet-plan
  ------------------------------------------*/
 .plan-block { border: 1px solid #ededed; padding: 40px; margin-bottom: 30px; }
+.plan-block a { color: #fbb216; }
+.plan-block a:hover { color: #fbb216; }
 .plan-header { border-bottom: 1px solid #ededed; margin-bottom: 40px; position: relative; }
 .plan-price { padding-right: 0px; position: absolute; bottom: 8px; right: 0; font-size: 30px; color: #fbb216; }
 .plan-content { }
